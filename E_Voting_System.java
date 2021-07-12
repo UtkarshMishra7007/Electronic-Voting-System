@@ -1,4 +1,4 @@
-// This Project has been built in NetBeans 8.2
+// This Project has been build in NetBeans 8.2
 
 package e_voting_system;
 
